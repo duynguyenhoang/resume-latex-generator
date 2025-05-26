@@ -1,0 +1,74 @@
+basics:
+  name: Duy Nguyen
+  jobTitle: Lead Data and AI Engineer
+  image: ''
+  email: info@example.com
+  phone: "(12) 123-456-7890"
+  url: https://github.com/duynguyenhoang
+  linkedin: https://linkedin.com/in/duynguyenhoang
+  github: https://github.com/duynguyenhoang
+
+work:
+- name: ACME GmbH
+  position: Lead Data and AI Engineer
+  location: Berlin, Germany
+  url: https://example.co/
+  startDate: 'May 2020'
+  endDate: 'Present'
+  description:
+  - Leading high performance DataOps team
+  - Enable Data Governance/Discovery and Quality
+  - Leading AI projects
+  keywords:
+  - scala
+  - python
+  - llm
+
+education:
+- institution: ACME University
+  country: Can Tho city, Vietnam
+  courseOfStudy: Bachelor of Information Technology
+  studyType: Bachelor
+  startDate: 'Jan 2010'
+  endDate: 'Dec 2019'
+
+skills:
+- name: Programming Language
+  keywords:
+  - Java
+  - Python
+  - Golang
+- name: Web Development
+  keywords:
+  - HTML
+  - CSS
+  - JavaScript
+- name: Libraries
+  keywords:
+  - pandas
+  - NumPy
+  - Matplotlib
+
+projects:
+- name: Example project 1
+  startDate: 'June 2005'
+  endDate: 'May 2006'
+  description:
+  - Developed a full-stack web application using with Flask serving a REST API with React as the frontend
+  - Implemented GitHub OAuth to get data from user's repositories
+  keywords:
+  - Python
+  - Flask
+  - React
+  - Docker
+- name: Example project 2
+  startDate: 'June 2006'
+  endDate: 'December 2009'
+  description:
+  - Developed a Slack App
+  - Implemented GitHub OAuth to get data from user's repositories
+  keywords:
+  - Python
+  - FastAPI
+  - Slack
+  - Docker
